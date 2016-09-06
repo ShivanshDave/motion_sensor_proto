@@ -1,0 +1,14 @@
+** Drc report for D:\Laser Sensor\motion_sensor_proto\design_sensor.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 2 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (151.600 mm,114.650 mm): Pad 15 on F.Cu, Non-copper of U1 net VDD
+    @ (151.600 mm,119.990 mm): Pad 12 on F.Cu, Non-copper of U1
+ErrType(2): Unconnected pads
+    @ (155.750 mm,122.700 mm): Pad 1 on F.Cu, Non-copper of C8 net VDD
+    @ (155.750 mm,125.400 mm): Pad 1 on F.Cu, Non-copper of C2
+
+** End of Report **

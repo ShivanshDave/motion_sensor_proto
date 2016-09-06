@@ -1,0 +1,13 @@
+Building new S-DIP footprint with the following parameters:
+  Body:
+    outline x margin: 1.5mm
+    silk screen inside: False
+    outline y margin: 0.5mm
+  Pads:
+    pad width: 1.0mm
+    drill size: 0.0mm
+    pas count: 16
+    row count: 2
+    pad pitch: 1.78mm
+    row spacing: 14.6mm
+    pad length: 2.0mm
